@@ -6,3 +6,4 @@ This repository will contain smaller notebook sized projects
 - Logistic Regression / GLM / Naive Bayes in R
 - Pokemon API script in Python
 - Stats : Sampling, Experiment Design, A/B Testing in R
+- Time Series Project
